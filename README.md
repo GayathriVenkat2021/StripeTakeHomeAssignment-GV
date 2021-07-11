@@ -3,7 +3,7 @@ This is a simple e-commerce application that a customer can use to purchase a bo
 .
 
 ## Application overview
-This demo is written in Javascript (Node.js) with the [Express framework](https://expressjs.com/). You'll need to retrieve a set of testmode API keys from the Stripe dashboard (you can create a free test account [here](https://dashboard.stripe.com/register)) to run this locally.
+This demo is written in Javascript (Node.js) with the [Express framework](https://expressjs.com/). The test keys are from the test account created from Stripe dashboard.
 
 We're using the [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/) CSS framework. It's the most popular CSS framework in the world and is pretty easy to get started with — feel free to modify styles/layout if you like. 
 
